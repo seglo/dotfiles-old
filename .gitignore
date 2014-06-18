@@ -8,6 +8,7 @@ Desktop
 Videos
 source
 gdrive
+tmp
 .adobe
 .cache
 .compiz
@@ -16,11 +17,16 @@ gdrive
 .gstreamer-0.10
 .gnome
 .local
+.ivy2
 .macromedia
 .mozilla
+.node-gyp
 .npm
+.npmrc
 .pki
 .remmina
+.sbt
+.scala_history
 .ssh/tachyon
 .ssh/seglo
 .ssh/slurp*

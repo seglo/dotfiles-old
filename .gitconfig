@@ -1,3 +1,7 @@
 [user]
 	email = seglo@randonom.com
 	name = seglo
+[push]
+	default = simple
+[diff]
+	external = git-diff.sh

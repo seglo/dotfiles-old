@@ -1,6 +1,8 @@
 {
 	"installed_packages":
 	[
-		"JsFormat"
+		"CTags",
+		"JsFormat",
+		"Markdown Preview"
 	]
 }
