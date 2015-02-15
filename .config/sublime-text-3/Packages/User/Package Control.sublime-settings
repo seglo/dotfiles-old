@@ -1,8 +1,13 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"CTags",
+		"Indent XML",
 		"JsFormat",
-		"Markdown Preview"
+		"Markdown Preview",
+		"Package Control"
 	]
 }
